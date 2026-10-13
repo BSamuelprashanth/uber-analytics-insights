@@ -684,6 +684,5 @@ This Power BI project demonstrates practical experience in:
 
 ## 👤 Author
 
-**Aish Joon**
+**BATHINI SAMUEL PRASHANTH**
 
-Data Analyst | SQL | Python | Power BI | Excel
