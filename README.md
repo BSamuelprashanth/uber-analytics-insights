@@ -2,6 +2,9 @@
 
 Developed an end-to-end data analytics project using Python, SQL, and Power BI to analyze 150K+ ride-booking records and generate actionable business insights. Used Python (Pandas, NumPy, Matplotlib, Seaborn, and SciPy) for data cleaning, validation, exploratory data analysis, outlier detection, and statistical hypothesis testing. Utilized MySQL for relational data analysis, KPI development, multi-table joins, CTEs, aggregations, and window functions. Built an interactive Power BI dashboard suite with data modelling, DAX calculated measures, a dedicated Date table, slicers, and four dashboards covering Executive Overview, Operations & Vehicle Performance, Customer & Location Analysis, and Cancellation & Root Cause Analysis. The project evaluates booking performance, revenue, vehicle performance, customer behavior, locations, payment methods, and cancellation patterns to support data-driven decision-making. 
 
+## 📸 Application Dashboard Preview
+
+![Uber Ride Analytics Dashboard](Dashboard.png)
 ## Python Analysis:
 
 The analysis works with a relational dataset containing **150,000 booking records** and supporting bookings, customer, calendar, vehicle, location, payment, and cancellation tables.
